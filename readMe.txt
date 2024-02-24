@@ -1,2 +1,2 @@
-This is a file from my 2150 class. I don't have the instructions that came along with it unfourtently.
-what i will be turning into ruby code is the node class and the linked list class.
+This is a file from my 1900 class. I don't have the instructions that came along with it unfourtently
+but it just looks like we were making a car class.
